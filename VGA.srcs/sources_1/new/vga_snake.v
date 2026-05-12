@@ -1,4 +1,4 @@
-module vga_red(
+module vga_snake(
     iclk_50,
     irst,
     key_up,
